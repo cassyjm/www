@@ -1,0 +1,39 @@
+body {
+	margin:auto;
+	background-image:url('img/bg.jpg');
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-color:#000;
+	overflow:hidden;
+}
+
+.subscriptions-container {
+	color:#fff;
+	margin:100px auto;
+	width:90%;
+	height:auto;
+	max-width:480px;
+	position:relative;
+	padding:30px;
+	background:rgba(0,0,0,0.8);
+	-webkit-box-shadow: 2px 0px 5px 0px rgba(0,0,0,0.7);
+	-moz-box-shadow: 2px 0px 5px 0px rgba(0,0,0,0.7);
+}
+
+.form {
+	margin:30px 0;
+}
+
+.bold {margin-left:10px;
+	font-weight:900;}
+
+.description {
+	margin-left:23px;
+	color:#a3a3a3;
+}
+
+.fineprint {
+	font-style:italic;
+	margin-top:30px;
+	color:#a3a3a3;
+}
